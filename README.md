@@ -2,6 +2,9 @@
 
 * Ejemplo - [Botones/HD/Video](https://fb.watch/jUJiM0o2eN/?mibextid=Nif5oz)'s Botones HD para Sm64ex-coop android:
 ```bash
+termux-setup-storage
+```
+```bash
 pkg install wget
 ```
 ```bash
