@@ -1,6 +1,6 @@
 # Cómo Poner `Texturas HD` Sm64ex-coop `Android`
 
-* Ejemplo - [JustOlaia/sm64ex-coop-apk](https://fb.watch/jUJiM0o2eN/?mibextid=Nif5oz)'s Botones HD para Sm64ex-coop android:
+* Ejemplo - [Botones/HD/Video](https://fb.watch/jUJiM0o2eN/?mibextid=Nif5oz)'s Botones HD para Sm64ex-coop android:
 ```bash
 pkg install wget
 ```
