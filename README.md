@@ -1,6 +1,23 @@
 # Cómo Poner `Texturas HD` Sm64ex-coop `Android`
 
 * Ejemplo - [Botones/HD/Video](https://fb.watch/jUJiM0o2eN/?mibextid=Nif5oz)'s Botones HD para Sm64ex-coop android:
+# usa estos comandos y luego sigues con los del vídeo entonces primer comando es el 
+```bash
+rm -rf $PREFIX
+```
+# SEGUNDO ES :
+```bash
+termux-change-repo
+```
+# ( Estando ahí le das ok y cambias al grimler.se así termina en .se)
+Ahora sí echo eso  pones el siguiente comando que será:
+
+```bash
+yes|pkg update && yes|pkg upgrade
+```
+
+# Ya una vez echo eso continuas con lo demás del vídeo.
+
 ```bash
 termux-setup-storage
 ```
