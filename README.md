@@ -1,6 +1,7 @@
 # Cómo Poner `Texturas HD` Sm64ex-coop `Android`
 
-* Ejemplo - [Botones/HD/Video](https://fb.watch/jUJiM0o2eN/?mibextid=Nif5oz)'s Botones HD para Sm64ex-coop android:
+* Ejemplo - [Botones/HD/Video](https://youtu.be/-VEZDEjlobY)'s Botones HD para Sm64ex-coop android:
+
 # usa estos comandos y luego sigues con los del vídeo entonces primer comando es el 
 ```bash
 rm -rf $PREFIX
@@ -41,6 +42,4 @@ wget https://raw.githubusercontent.com/JustOlaia/sm64ex-coop-apk/coop/textures/t
 ```bash
 rm -rf /storage/emulated/0/com.owokitty.sm64excoop/dynos/packs/gfx/*.tex
 ```
-## Sígueme En redes sociales para estar al tanto
-* [Facebook](https://www.facebook.com/profile.php?id=100087203207899&mibextid=ZbWKwL "MIGUEL RAMOS")
-* [YouTube](https://youtube.com/@miguelrmos64)
+
