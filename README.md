@@ -1,6 +1,6 @@
 # Cómo Poner `Texturas HD` Sm64ex-coop `Android`
 
-* Ejemplo - [Botones/HD/Video](https://youtu.be/-VEZDEjlobY)'s Botones HD para Sm64ex-coop android:
+* Ejemplo - [Botones/HD/Video](https://youtu.be/-VEZDEjlobY) Botones HD para Sm64ex-coop android:
 
 # usa estos comandos y luego sigues con los del vídeo entonces primer comando es el 
 ```bash
